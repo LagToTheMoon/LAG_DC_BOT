@@ -1,0 +1,16 @@
+# Logs
+node_modules
+register_commend.js
+token.json
+twitter.js
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
