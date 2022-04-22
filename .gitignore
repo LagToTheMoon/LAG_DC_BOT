@@ -1,8 +1,10 @@
 # Logs
 node_modules
-register_commend.js
+register.js
 token.json
 twitter.js
+.gitignore
+
 
 # Editor directories and files
 .vscode/*
